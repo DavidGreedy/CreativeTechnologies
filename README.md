@@ -6,6 +6,9 @@ To run the executable find the folder labelled **Build** and open the folder mat
 
 ##CONTROLS
 W+S to move in the X direction
+
 Q+E to move in the Y direction
+
 A+D to move in the Z direction
+
 Esc to Quit
