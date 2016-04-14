@@ -11,4 +11,8 @@ Q+E to move in the Y direction
 
 A+D to move in the Z direction
 
+Arrow keys look around
+
+Scroll wheel changes camera speed
+
 Esc to Quit
